@@ -53,7 +53,7 @@ This helps highlight apps that are both overused and invasive.
 
 ##  Screenshots
 
-![WhatsApp Image 2025-07-30 at 17 30 13_2f2c887a](https://github.com/user-attachments/assets/ec2a772a-9b85-4af5-90fd-fa29dab98f63)
+![WhatsApp Image 2025-07-30 at 17 25 37_b8bd0336](https://github.com/user-attachments/assets/d6bb76cc-1917-4445-b88f-dc2c82528a1f)
 ![WhatsApp Image 2025-07-30 at 17 31 19_f8aed93a](https://github.com/user-attachments/assets/66c61f76-1c0c-4d71-8156-105129212566)
 ![WhatsApp Image 2025-07-30 at 17 31 44_e0eb2d6c](https://github.com/user-attachments/assets/b17a5bfa-579d-451f-9d9b-1a1ca844cee7)
 
